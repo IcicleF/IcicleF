@@ -1,12 +1,8 @@
 ## Hi!
 
-I'm currently a fifth-year Ph.D student in Tsinghua University.
-My major is storage systems -- a fairly wide topic.
+I am a Ph.D. from [@thustorage](https://github.com/thustorage).
 
-- 🔭 **I’m currently working on:** distributed in-memory storage systems, mainly their fault-tolerance and concurrency.
-- 🌱 **I’m interested in:** relaxing!
-
-Also find me on [our lab's homepage](https://storage.cs.tsinghua.edu.cn/~gj/).
+I build reliable storage systems.
 
 <!--
 **IcicleF/IcicleF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
